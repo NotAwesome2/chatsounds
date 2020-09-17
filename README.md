@@ -6,7 +6,7 @@ Audio repo for [the chatsounds plugin](https://github.com/SpiralP/rust-classicub
 
 Drag and drop sound files into https://github.com/NotAwesome2/chatsounds/upload/master/sounds/misc to add them into the game easily!  
 
-It's better to categorize the sounds into folders.  To do this, edit the "misc" part of the above url to be the category name such as https://github.com/NotAwesome2/chatsounds/upload/master/sounds/minecraft if you were going to add a "creeper stare.ogg" sound.
+It's better to categorize the sounds into folders.  To do this, edit the "misc" part of the above url to be the category name such as https://github.com/NotAwesome2/chatsounds/upload/master/sounds/minecraft if you were going to add a "enderman stare.ogg" sound.
 
 Please make sure the files are [small and in a commonly used audio format](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt#L13) before uploading.
 
