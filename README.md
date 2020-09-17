@@ -9,6 +9,5 @@ You can use the [Chatsounds Converter](https://carbonated-three-daphne.glitch.me
 
 ### Other chatsound repos
 
-* https://github.com/PAC3-Server/chatsounds
 * https://github.com/Metastruct/garrysmod-chatsounds
-
+* https://github.com/PAC3-Server/chatsounds
