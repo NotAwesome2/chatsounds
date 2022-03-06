@@ -12,7 +12,7 @@ Please make sure the files are [small and in a commonly used audio format](https
 
 You can use the [Chatsounds Converter](https://chatsounds-converter.spiralp.xyz) to convert into small ogg files easily.
 
-If you do not have access to this repo, you will have to click Fork at the top right and use your own personal repo to make a pull request. When about to commit, select `Create a new branch for this commit and start a pull request` to create the pull request.
+If you do not have access to this repo, you will have to click Fork at the top-right and use your own personal repo to make a pull request.
 
 More detailed instructions can be found [here](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt) and [here](https://github.com/PAC3-Server/chatsounds/blob/master/README.md).
 
